@@ -5,4 +5,4 @@ output instance_Finalpublic_ip{
     
  }
   
-
+/* above code display the Public IP Address*/
